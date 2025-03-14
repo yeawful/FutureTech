@@ -10,10 +10,9 @@ https://yeawful.github.io/FutureTech/
 FutureTech — многостраничный сайт компании, которая специализируется на Ai технологиях.
 
 
-Макет Figma:
-```
+Макет Figma: 
 https://www.figma.com/design/YzTDRV7OaSoeCUBNYaoCZV
-```
+
 
 
 Функционал:
