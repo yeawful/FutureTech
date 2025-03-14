@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eeb5e72d-dc3c-45a4-9f96-ff82d64fd9d6)
+![image](https://github.com/user-attachments/assets/2bb0ed76-cedc-4b9b-a107-e53eb9342eb0)
 
 
 Ссылка на сайт:
@@ -32,7 +32,7 @@ HTML5
 CSS3
 JavaScript:
 SASS;
-БЭМ Методология;
+БЭМ;
 Адаптив rem единиц измерения;
 
 ```
