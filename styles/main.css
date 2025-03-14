@@ -244,7 +244,7 @@ svg * {
   --shadow: 0 0 0 0.1875rem #191919;
   --font-family-base: "Inter", sans-serif;
   --font-family-accent: "Kumbh Sans", sans-serif;
-  --container-width: 85.375rem;
+  --container-width: 100rem;
   --container-padding-x: 1rem;
   --transition-duration: 0.2s;
   --100vw: calc(100vw - var(--scrollbar-width));
